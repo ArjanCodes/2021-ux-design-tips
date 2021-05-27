@@ -1,1 +1,10 @@
-# 2021-ux-design-tips
+# UX design tips for developers
+
+This repository contains the code for the 7 UX design tips video (watch the video [here](https://youtu.be/uAQAgPSwZf0).
+
+## Images used in this project
+
+- Photo by <a href="[https://unsplash.com/@isaacmsmith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](https://unsplash.com/@isaacmsmith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">Isaac Smith</a> on <a href="[https://unsplash.com/s/photos/sales?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](https://unsplash.com/s/photos/sales?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">Unsplash</a>
+- Photo by <a href="[https://unsplash.com/@jdiegoph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](https://unsplash.com/@jdiegoph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">Diego PH</a> on <a href="[https://unsplash.com/s/photos/marketing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](https://unsplash.com/s/photos/marketing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">Unsplash</a>
+- Photo by <a href="[https://unsplash.com/@f7photo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](https://unsplash.com/@f7photo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">Michael Longmire</a> on <a href="[https://unsplash.com/s/photos/finance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](https://unsplash.com/s/photos/finance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">Unsplash</a>
+- Photo by <a href="[https://unsplash.com/@kirill2020?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](https://unsplash.com/@kirill2020?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">Kirill Sh</a> on <a href="[https://unsplash.com/collections/70826936/servers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](https://unsplash.com/collections/70826936/servers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">Unsplash</a>
