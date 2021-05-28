@@ -1,6 +1,6 @@
 # UX design tips for developers
 
-This repository contains the code for the 7 UX design tips video (watch the video [here](https://youtu.be/uAQAgPSwZf0).
+This repository contains the code for the 7 UX design tips video on the ArjanCodes channel (watch the video [here](https://youtu.be/uAQAgPSwZf0)).
 
 ## Images used in this project
 
